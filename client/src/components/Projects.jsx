@@ -27,7 +27,7 @@ const projects = [
       desc: 'Personal portfolio website.',
       tech: 'React, Tailwind, Framer Motion',
       live: 'https://myportfolio-latest-verison07.vercel.app/',
-      source: 'https://github.com/akbarmwaris/portfolio',
+      source: 'https://github.com/AkbarMWaris/MyPortFolio',
     
   },
 ];
