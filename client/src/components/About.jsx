@@ -93,7 +93,7 @@ const About = () => (
             <Linkedin size={18} /> LinkedIn
           </motion.a>
           <motion.a
-            href="https://drive.google.com/file/d/1OEcuuwYyqkaHOOXl4tbKGj7GxqVPPx3U/view"
+            href="https://drive.google.com/file/d/1G_ztp7K9vCFq6lrSYj3x0Z77cnSDaEX1/view"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ y: -3 }}
